@@ -44,4 +44,5 @@ https://www.linkedin.com/in/asem-khaled-01414424a/" target="_blank">
 
 <div align=center>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asemkhalede&show_icons=true&locale=en&layout=compact" alt="asemkhalede" /></p>
+    </div>
 <br/><br/>
