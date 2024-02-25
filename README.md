@@ -34,7 +34,11 @@ https://www.linkedin.com/in/asem-khaled-01414424a/)**
 <br/>
 <hr/>
 <h2 align="center"> Developer Tools 🧰 </h2>
-##
+<p align="center"> <a  href="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="VisualStudio" width="40" height="40"/>
+    
+</a>
+
+</p>
 <div align=center><img align="center" src=""<img align="center" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white/></div>
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <hr/>
